@@ -37,7 +37,6 @@ export default function SettingAction(props: {
               }}
             />
           </SettingItem>
-          /*
           <SettingItem icon="i-carbon:api" label="OpenAI Key">
             <input
               type="password"
@@ -50,7 +49,6 @@ export default function SettingAction(props: {
                 })
               }}
             />
-            */
           </SettingItem>
           <SettingItem
             icon="i-carbon:machine-learning-model"
